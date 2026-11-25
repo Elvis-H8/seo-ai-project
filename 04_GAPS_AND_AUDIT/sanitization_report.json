@@ -1,0 +1,38 @@
+{
+  "audited_at": "2026-11-25T09:40:22+08:00",
+  "scope": "全部导出的单篇摘要、历史笔记、来源元数据先保守句段去敏；最终全包文本另做模式扫描",
+  "redacted_segments_by_rule_during_source_processing": {
+    "contact_or_promotion": 114,
+    "credential": 1,
+    "email": 4
+  },
+  "value_reporting": "不记录或回显敏感命中值",
+  "url_policy": "继承资料的URL移除query及fragment；授权链接零保留；来源文档URL/ID保留",
+  "excluded": "第三方raw/附件/图视频/原始日志/登录授权材料/内部会话/无关个人资料",
+  "manual_sample_ids": [
+    "EK2XdrYAVoALd9xPooIcI6WOnwh",
+    "GH5edCpKjoU8R7xzbcIcq7Ojnid",
+    "HSW3ds3Z8o6dRtxSpaKc2Bbcnrz",
+    "DUAOdLRfAoN3ewxcdZGcn4Pbnge",
+    "DBUfdkFJloeEDTxEjdKcqrYense",
+    "EQTddO29koifZXxiZXrcXKTTngh",
+    "Btl4dTLtvogG4OxT9fjcNchInFQ",
+    "CyQmdCUSuoiTzfxZ2xKc3AVBnrg",
+    "T1NudQGB9oBDTZxr6Jbcqi6enCX",
+    "Kovvdk0fhoDw3SxajuAcyyMdnlg",
+    "UuTod39bPoOxAixt3s5ceHNln2c",
+    "FAXvd4T1DoQAAoxpiP4cObGXnEc",
+    "G6UydomatoBwRCx11ikc4MLznxd",
+    "S2HCdDYGKorPpvx43dScuyYBnve",
+    "KcnvdydUao7pIyxTKRIcmnASnZf"
+  ],
+  "manual_sample_focus": [
+    "密钥与联系信息不外带",
+    "保留任务方法与错误边界",
+    "核心缺口不假装完成",
+    "案例金额只是自报不是用户收款资料",
+    "历史过时建议不升格当前官方结论"
+  ],
+  "limitations": "模式扫描与抽查不能证明不存在所有语义敏感内容；分享前由用户复核接收者与资料许可。去敏句段可能损失细节，补查需合法原文权限。",
+  "third_party_verbatim_line_check": "1136摘要与对应raw比较，未发现超过200字符的完整原样长行；这不是版权许可或完整相似度判定。"
+}

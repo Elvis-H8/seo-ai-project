@@ -1,0 +1,48 @@
+{
+  "version": "1.0.0",
+  "exported_at": "2026-11-25T09:40:22+08:00",
+  "timezone": "Asia/Shanghai",
+  "user": "Elvis",
+  "language": "zh-CN",
+  "daily_minutes": 60,
+  "coding_skill": "能用AI写代码",
+  "has_website": false,
+  "selected_project": null,
+  "candidate_ids": [
+    "pto",
+    "subtitle",
+    "rrule"
+  ],
+  "feishu_mode": "只读，尚未获准写入",
+  "read_records_updated_at": "2026-11-15 04:38:48 +0800",
+  "scope": {
+    "unique_documents": 1136,
+    "summary_files": 1136,
+    "complete_body_summary": 1130,
+    "core_incomplete": 6,
+    "supplementary_media_incomplete": 11
+  },
+  "unknown": [
+    "目标市场/地区/语言",
+    "预算与付费意愿",
+    "首项目最终选择",
+    "真实月搜索量与KD",
+    "可持续差异化",
+    "第一天实搜结果"
+  ],
+  "not_authorized": [
+    "飞书写入",
+    "购买与花钱",
+    "产品站点公网部署与发布",
+    "代发消息",
+    "删除",
+    "审批",
+    "联系其他AI或Bot"
+  ],
+  "public_knowledge_repository": {
+    "approved": true,
+    "url": "https://github.com/Elvis-H8/seo-ai-project",
+    "approved_on": "2026-11-25",
+    "scope": "仅去敏自写知识包；不包含第三方原文、媒体、日志或凭证"
+  }
+}

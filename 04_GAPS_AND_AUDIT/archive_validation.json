@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "validated_at": "2026-11-25T09:43:19+08:00",
+  "checks": [
+    "ZIP CRC",
+    "归档相对路径和根目录",
+    "无绝对路径/越界/符号链接",
+    "完整解压",
+    "解压后manifest逐文件SHA-256/大小/文件数",
+    "来源摘要一一映射",
+    "本地Markdown链接"
+  ],
+  "preflight_roundtrip": {
+    "ok": true,
+    "files": 1217,
+    "summaries": 1136,
+    "errors": []
+  },
+  "final_release_gate": "最终ZIP只有在同样的完整解压校验通过后才交付；外部归档SHA-256另附，不在ZIP内自递归。",
+  "sensitive_values_in_report": false
+}

@@ -1,0 +1,48 @@
+{
+  "version": "1.0.0",
+  "validated_at": "2026-11-25T09:43:19+08:00",
+  "sensitive_scan": {
+    "text_files_scanned_before_report_and_manifest": 1218,
+    "rules_hit_counts": {
+      "email_value": 0,
+      "cn_mobile_value": 0,
+      "long_financial_number": 0,
+      "private_key": 0,
+      "known_secret_value": 0,
+      "secret_assignment": 0,
+      "jwt_value": 0,
+      "authorization_link": 0,
+      "embedded_url_credentials": 0,
+      "internal_private_path": 0,
+      "contact_value": 0
+    },
+    "unresolved_hits": 0,
+    "hit_values_recorded": false,
+    "scope": "全包文本、合并版和分块；语义限制见sanitization_report"
+  },
+  "links": {
+    "local_markdown_targets_checked": 114,
+    "schema_known_relative_paths_checked": 1146,
+    "broken": 0,
+    "note": "检查实际Markdown链接及来源/知识图谱结构化路径；历史普通文本中的raw/logs名称仅指未随包分发的旧资料，不作链接"
+  },
+  "summary_mapping": {
+    "unique_sources": 1136,
+    "summary_files": 1136,
+    "missing": 0,
+    "extra": 0
+  },
+  "count_conservation_ok": true,
+  "archive_verification": {
+    "planned_archive_name": "seo-ai-project-v1.0.zip",
+    "path_policy": "所有条目以seo-ai-project/为根；不允许绝对路径/..越界/符号链接",
+    "verification_procedure": "压缩后测试CRC并解压到新的专用目录，逐文件对比manifest SHA-256；结果以制包命令实际输出为准"
+  },
+  "not_done": [
+    "没有新做联网官方核验",
+    "没有补图视频或附件",
+    "没有重新逐篇读原文",
+    "没有联系其他AI或发送任何内容",
+    "没有写飞书/购买/部署/发布"
+  ]
+}
