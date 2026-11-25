@@ -1,0 +1,20 @@
+{
+  "schema_version": "1.0",
+  "tasks": [
+    {
+      "task_id": "R-001",
+      "owner_role": "总协调/教练",
+      "objective": "初始交叉评审并提出唯一60分钟作业",
+      "inputs": [
+        "PROJECT_BRIEF.md",
+        "CONFLICTS_AND_EVIDENCE.md",
+        "02_PRACTICE/CANDIDATES.md"
+      ],
+      "output": "由接收者在其工作副本记录评审",
+      "status": "未开始",
+      "allowed": "离线阅读、分析、建议",
+      "not_allowed": "自动编码、购买、发布、外发、写飞书",
+      "acceptance": "引用来源；未知不编造；不将候选设为已选"
+    }
+  ]
+}

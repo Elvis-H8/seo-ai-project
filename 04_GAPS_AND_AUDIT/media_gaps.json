@@ -1,0 +1,160 @@
+{
+  "audit_at": "2026-11-25T09:40:22+08:00",
+  "core_count": 6,
+  "supplementary_count": 11,
+  "items": [
+    {
+      "token": "YR3WdBIjVosHM2xF9WYcsOxInhc",
+      "name": "20250806 【哥飞小课堂】新站没有沙盒期，反而有优待期 | Web.Cafe",
+      "url": "https://zcnalei7zaql.feishu.cn/docx/YR3WdBIjVosHM2xF9WYcsOxInhc",
+      "tier": "core_missing",
+      "severity": "incomplete_media",
+      "kind": "image_primary",
+      "notes": "正文几乎只有标题和一张长图，论证、数据和步骤都在图里。官方只读下载因缺少 docs:document.media:download 失败，图未能用 Read 补齐。不能把标题当已证实结论。"
+    },
+    {
+      "token": "Bt1mdF20AoUPAWxLnoVcGY7knge",
+      "name": "20250806 【哥飞答疑】为什么刘小排的 Fast3D.io 会选择用 Fast 3D 这个搜索量这么小的关键词做域名？",
+      "url": "https://zcnalei7zaql.feishu.cn/docx/Bt1mdF20AoUPAWxLnoVcGY7knge",
+      "tier": "core_missing",
+      "severity": "incomplete_media",
+      "kind": "image_primary",
+      "notes": "正文没有文字解答，只有一张无说明配图。官方只读下载缺同一权限，图未能补齐。不能从标题推断域名策略。"
+    },
+    {
+      "token": "D8B0dZgSToSOAjx7lX8cHuVunde",
+      "name": "20250413 哥飞文字教程解析小白怎么找词-掌握了就有做不完的词 | Web.Cafe",
+      "url": "https://zcnalei7zaql.feishu.cn/docx/D8B0dZgSToSOAjx7lX8cHuVunde",
+      "tier": "core_missing",
+      "severity": "video_pending",
+      "kind": "video",
+      "notes": "正文提要已检视，主体三十多兆视频未观看。不能把文字提要当成整课已掌握。"
+    },
+    {
+      "token": "WflIdxN8Po3DlKxXYFPcekLDntf",
+      "name": "20241122 H5小游戏新词挖掘工具汇总",
+      "url": "https://zcnalei7zaql.feishu.cn/docx/WflIdxN8Po3DlKxXYFPcekLDntf",
+      "tier": "core_missing",
+      "severity": "incomplete_media",
+      "kind": "attachments_primary",
+      "notes": "正文极短，只点名三份附件：小游戏新词监控说明和脚本、体积很大的本地可执行程序、网页存档形式的他人分享。附件正文和程序均未展开，不能根据文件名推断内容。不下载运行、不执行。核心内容在附件里，故从「已读并写摘要」改记为「正文已检视-图文未完」。"
+    },
+    {
+      "token": "GX8Td2AT3oRjz6xceUTcIE6pnof",
+      "name": "20250626 4.16 ✉️ 企业邮箱教程 | Web.Cafe",
+      "url": "https://zcnalei7zaql.feishu.cn/docx/GX8Td2AT3oRjz6xceUTcIE6pnof",
+      "tier": "supplementary",
+      "severity": "supplementary_media",
+      "kind": "video",
+      "notes": "正文文字教程已读并写摘要。页面提示「无法获取视频链接」，配套约 9 分 49 秒视频未看；正文对 MX/SPF/DKIM 等解析记录写得很粗，细节可能在视频和配图里。不重复下载。不以文字教程冒充整课已掌握。"
+    },
+    {
+      "token": "PxAsdTliqodX3QxaQTDcZg4Anne",
+      "name": "20260304 博客评论外链自动发现和自动发布插件原理讲解，同时讲清楚博客评论外链是什么，有没有用，使用场景是什么 | Web.Cafe",
+      "url": "https://zcnalei7zaql.feishu.cn/docx/PxAsdTliqodX3QxaQTDcZg4Anne",
+      "tier": "supplementary",
+      "severity": "supplementary_media",
+      "kind": "video_and_attachment",
+      "notes": "正文机制说明已读并写摘要。演示视频在群里、飞书正文未附完整画面；一份资源表格附件未能完整展开。不执行评论链操作。"
+    },
+    {
+      "token": "YfwCdDuknooCI4xWhEsczjTan0g",
+      "name": "20250527 第一位嘉宾【泽佳 Clara998】：从副业到全职，再到组建团队，我出海一年的思考 | Web.Cafe",
+      "url": "https://zcnalei7zaql.feishu.cn/docx/YfwCdDuknooCI4xWhEsczjTan0g",
+      "tier": "supplementary",
+      "severity": "supplementary_media",
+      "kind": "video",
+      "notes": "正文结构化笔记和已读截图说明已摘要。文首约 167MB 视频附件未另做口播转写，不能把笔记当成已观看整场分享。"
+    },
+    {
+      "token": "GRMedNWwJo0FO4xPLVdcRIPsnyb",
+      "name": "20250521 为什么谷歌会给新站机会？ | Web.Cafe",
+      "url": "https://zcnalei7zaql.feishu.cn/docx/GRMedNWwJo0FO4xPLVdcRIPsnyb",
+      "tier": "supplementary",
+      "severity": "supplementary_media",
+      "kind": "video",
+      "notes": "正文要点已摘要。文中提到的公益直播视频未在本篇打开。"
+    },
+    {
+      "token": "QFyOdlDlDoOcyLxpjzjcz7QCnce",
+      "name": "20250926 海外AI产品新手复盘：4个月赚到1刀，15天破1000刀 | Web.Cafe",
+      "url": "https://zcnalei7zaql.feishu.cn/docx/QFyOdlDlDoOcyLxpjzjcz7QCnce",
+      "tier": "supplementary",
+      "severity": "supplementary_media",
+      "kind": "attachment",
+      "notes": "正文长复盘已读并写摘要。作者提到用于同步统计数据的工作流 JSON 附件（文中称「右1」）在取回的正文里未能展开，不执行该工作流。"
+    },
+    {
+      "token": "JnT8daqZyoMJMxxuEB6cpJE1nG9",
+      "name": "[去敏：涉及联系、授权、支付、推广标识或内部运行信息的句段已略。]",
+      "url": "https://zcnalei7zaql.feishu.cn/docx/JnT8daqZyoMJMxxuEB6cpJE1nG9",
+      "tier": "supplementary",
+      "severity": "supplementary_media",
+      "kind": "image_prompts",
+      "notes": "正文复盘与数据已读并写摘要。标题所称「完整提示词」和部分配置写在配图里，未能逐字读完，不转写、不执行提示词。[去敏：涉及联系、授权、支付、推广标识或内部运行信息的句段已略。]"
+    },
+    {
+      "token": "HHbydjQOuovIEuxZ4Adces1Bnnd",
+      "name": "20251110 一键反查网站流量与广告投放，支持 AdSense 账号反查、Google Ads 广告分析、关键词情报查询！",
+      "url": "https://zcnalei7zaql.feishu.cn/docx/HHbydjQOuovIEuxZ4Adces1Bnnd",
+      "tier": "supplementary",
+      "severity": "supplementary_media",
+      "kind": "video",
+      "notes": "正文功能清单和演示截图已读并写摘要。文末「视频演示」「安装体验」两个标题下没有可看的视频或安装说明，这两块未读。不重复下载。"
+    },
+    {
+      "token": "PsnAdrkJjoFfutxZdlxceqZ4neL",
+      "name": "20251122 出海半年复盘分享，终于要月入千刀 | Web.Cafe",
+      "url": "https://zcnalei7zaql.feishu.cn/docx/PsnAdrkJjoFfutxZdlxceqZ4neL",
+      "tier": "supplementary",
+      "severity": "supplementary_media",
+      "kind": "image",
+      "notes": "正文时间线与收入自报已读并写摘要。第三节「找需求」的来源清单主要在一张长图里，配文仅概括类别（自身和身边痛点、网上所见、任务平台、工具榜中后段、新技术和开源仓库等），具体站点与迁移步骤未逐项核对外图。收入图单位为港币、正文为美元，图本身已在摘要中对照，不另作核心缺口。不重复下载。"
+    },
+    {
+      "token": "T1NudQGB9oBDTZxr6Jbcqi6enCX",
+      "name": "20251229 131 天只赚了 29.8 刀，这是我第一个海外 SaaS 闭环",
+      "url": "https://zcnalei7zaql.feishu.cn/docx/T1NudQGB9oBDTZxr6Jbcqi6enCX",
+      "tier": "core_missing",
+      "severity": "incomplete_media",
+      "kind": "linked_doc",
+      "notes": "本篇正文只有导语：作者陈江河自报 131 天做了十几个英文小工具站、两笔订单共 29.8 美元，并预告将写选择原因、踩坑和准备事项，但这三节不在本文件，而指向另一知识库页面（不同租户/wiki 链接）。未取回该外链正文前，不能把本篇算作已读完。不重复媒体下载。待只读取回并实读外链后再改状态。"
+    },
+    {
+      "token": "GahwdbogJos9hVxmTw5cjLoJnse",
+      "name": "20260109 【国内篇】0编程基础，AI 替代2个美工，月省1.2w还多赚5K+的产品：我的AI生图网站实战复盘 | Web.Cafe",
+      "url": "https://zcnalei7zaql.feishu.cn/docx/GahwdbogJos9hVxmTw5cjLoJnse",
+      "tier": "supplementary",
+      "severity": "supplementary_media",
+      "kind": "image",
+      "notes": "正文叙事、技术栈表、开发步骤提纲、运营要点和三项反思已读并写摘要。需求来源、版本演变、支付与内测、运营截图以及部分工具界面在正文中几乎只有空位、没有可用配文，关键图未核对。不重复下载。不以文字复盘冒充图中数据已核实。"
+    },
+    {
+      "token": "TbdSdgMWrom3vdxro4Xcbls8nZg",
+      "name": "20260116 整理了一个 AI 导航站外链库管理工具，同时也找群友要了折扣码(15%～30%) | Web.Cafe",
+      "url": "https://zcnalei7zaql.feishu.cn/docx/TbdSdgMWrom3vdxro4Xcbls8nZg",
+      "tier": "supplementary",
+      "severity": "supplementary_media",
+      "kind": "video",
+      "notes": "正文已说明这是导航站外链提交记录工具，并提到图中有付费折扣码。使用教程是一则站外视频，本轮未看；折扣码在配图中，摘要不转写。不重复下载。"
+    },
+    {
+      "token": "KcnvdydUao7pIyxTKRIcmnASnZf",
+      "name": "20260324 一张图告诉你一个词该不该做 | Web.Cafe",
+      "url": "https://zcnalei7zaql.feishu.cn/docx/KcnvdydUao7pIyxTKRIcmnASnZf",
+      "tier": "core_missing",
+      "severity": "incomplete_media",
+      "kind": "image_primary",
+      "notes": "标题承诺用一张图判断词该不该做。官方导出正文仅 318 字，只有一条评论在讨论图中的「5000」日搜索基准，作者正文与该图均未出现。更像是原文档以图为主、导出时图未进入正文（与 YR3W 类似），不能排除原转载就缺图。未重复媒体下载。不能把评论里的推算当成原文规则。"
+    },
+    {
+      "token": "PIcQd5wkqoeJFhxrB13cEMOFnNb",
+      "name": "20251021 【2025.5.10案例拆解】Duolingo | Web.Cafe",
+      "url": "https://zcnalei7zaql.feishu.cn/docx/PIcQd5wkqoeJFhxrB13cEMOFnNb",
+      "tier": "supplementary",
+      "severity": "supplementary_media",
+      "kind": "video",
+      "notes": "正文和图说已足以概括访谈要点（课节变短、进度条、排行、免费加广告和订阅、在线考试等）。源视频为站外 YouTube 访谈，本轮未观看，不能把笔记当成已看完整场。不升为核心缺失，不重复媒体下载。"
+    }
+  ]
+}

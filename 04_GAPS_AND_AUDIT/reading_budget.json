@@ -1,0 +1,53 @@
+{
+  "startup": {
+    "files": [
+      "README.md",
+      "PROJECT_BRIEF.md",
+      "AI_WORKING_AGREEMENT.md",
+      "00_CONTEXT/STATE.md",
+      "02_PRACTICE/CANDIDATES.md",
+      "02_PRACTICE/DAY_01.md",
+      "CONFLICTS_AND_EVIDENCE.md"
+    ],
+    "characters": 8827,
+    "bytes": 19844,
+    "rough_token_range": [
+      5296,
+      15888
+    ],
+    "note": "字符数实测；token为粗略范围，因模型/中英比例而变，不是精确分词"
+  },
+  "topics": {
+    "files": [
+      "01_KNOWLEDGE/topics/06_内容结构与内链.md",
+      "01_KNOWLEDGE/topics/07_站外推广.md",
+      "01_KNOWLEDGE/topics/03_选题决策.md",
+      "01_KNOWLEDGE/topics/10_失败案例与迁移.md",
+      "01_KNOWLEDGE/topics/01_需求发现.md",
+      "01_KNOWLEDGE/topics/08_数据与实验.md",
+      "01_KNOWLEDGE/topics/02_关键词与SERP.md",
+      "01_KNOWLEDGE/topics/04_MVP与AI开发.md",
+      "01_KNOWLEDGE/topics/05_技术SEO与收录.md",
+      "01_KNOWLEDGE/topics/09_变现支付与投放.md"
+    ],
+    "characters": 9824,
+    "bytes": 22466,
+    "rough_token_range": [
+      5894,
+      17683
+    ],
+    "note": "字符数实测；token为粗略范围，因模型/中英比例而变，不是精确分词"
+  },
+  "all_knowledge": {
+    "files": [
+      "ALL_KNOWLEDGE.md"
+    ],
+    "characters": 1328758,
+    "bytes": 2983318,
+    "rough_token_range": [
+      797254,
+      2391764
+    ],
+    "note": "字符数实测；token为粗略范围，因模型/中英比例而变，不是精确分词"
+  }
+}
